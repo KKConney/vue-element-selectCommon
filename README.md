@@ -1,6 +1,6 @@
 # select-common
 
-#### 基于 ElementUi ，结合使用 Select，Table，Dialog 组件，临时实现一个实用的选择对话框组件，待后续 优化扩展
+#### 基于 ElementUi ，结合使用 Select，Table，Dialog 组件，临时实现一个实用的选择对话框组件，支持单选，多选，筛选，待后续 优化扩展
 
 ## Project setup
 ```
